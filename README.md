@@ -3,8 +3,8 @@ Join Me as i venture into the world of machine learning
 
 Installations Required
 
-1. Jupyetr Notebook
-    it comes installed under the package manager anaconda 
+1. Jupyter Notebook
+    it comes installed under the package manager Anaconda 
     its an easy to use tool for data scientist and Artificial Intelligence Designers
     
     For Windows 
@@ -16,5 +16,7 @@ Installations Required
     Note follow the steps given on their website for python 3.6 installation as well be using that 
 
 2.  Setup the command line installer or graphical one whichever you prefer 
+
+3. Python installation is also done while installing anaconda 
 
 Lets dive into it 
